@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: SERVICE-CONFIG
+  profiles:
+    active: dev
