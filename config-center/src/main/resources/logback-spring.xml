@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <configuration scan="true" scanPeriod="5 seconds">
-    <property name="appName" value="configcenter"/>
+    <property name="appName" value="SERVICE-CONFIG"/>
     <property name="logDir" value="logs" />
-    <contextName>configcenter</contextName>
+    <contextName>SERVICE-CONFIG</contextName>
 
     <appender name="console" class="ch.qos.logback.core.ConsoleAppender">
         <!-- 日志输出编码 -->
